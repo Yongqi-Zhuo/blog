@@ -1,6 +1,6 @@
-# Source for `saucec0de.com`
+# Source for [`saucec0de.com`](saucec0de.com)
 
-This repository serves as the source for my personal website, `saucec0de.com`.
+This repository serves as the source for my personal website, [`saucec0de.com`](saucec0de.com).
 
 ## Acknowledgements
 
